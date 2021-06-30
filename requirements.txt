@@ -3,14 +3,4 @@ Flask==1.1.2
 Flask-Jsonpify==1.5.0
 gunicorn==20.1.0
 Jinja2==2.11.2
-
-pandas-flavor==0.2.0
-
-
-os
-scikit-image==0.17.2
-
-scikit-plot==0.3.7
-
-
 sklearn==0.0
